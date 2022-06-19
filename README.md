@@ -36,6 +36,7 @@ My name is Alex Avetisov, I am a beginner Web Developer. I started learning prog
 
 ![](https://img.shields.io/badge/rust-68589a?style=for-the-badge&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/node_js-68589a?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/flutter-68589a?style=for-the-badge&logo=flutter&logoColor=white)
 
 <div style="width: 100vw; height: 3rem;"></div>
 
