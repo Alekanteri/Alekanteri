@@ -42,8 +42,30 @@ My name is Alex Avetisov, I am a beginner Web Developer. I started learning prog
 <h1 style="text-align: center;">📊 Github Stats</h1>
 
 <span>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alekanteri&theme=material-palenight&langs_count=3" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alekanteri&hide=html,css&theme=material-palenight&langs_count=3" />
 </span>
 <span>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alekanteri&theme=material-palenight" />
 </span>
+
+<div style="width: 100vw; height: 3rem;"></div>
+
+<h1 style="text-align: center;">Links</h1>
+
+Telegram: <a href="https://t.me/Fxurhexd">
+
+![](https://img.shields.io/badge/@Fxurhexd-68589a?style=for-the-badge&logo=telegram&logoColor=white)
+
+</a>
+
+Discord: <a href="discordapp.com/users/Sandor#5055">
+
+![](https://img.shields.io/badge/Sandor5055-68589a?style=for-the-badge&logo=discord&logoColor=white)
+
+</a>
+
+Gmail: <a href="mailto:sandor.basc@gmail.com">
+
+![](https://img.shields.io/badge/sandor.basc@gmail.com-68589a?style=for-the-badge&logo=gmail&logoColor=white)
+
+</a>
