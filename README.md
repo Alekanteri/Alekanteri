@@ -58,7 +58,7 @@ Telegram: <a href="https://t.me/Fxurhexd">
 
 </a>
 
-Discord: <a href="discord.com/users/Sandor#5055">
+Discord: <a href="https://discord.com/users/Sandor#5055">
 
 ![](https://img.shields.io/badge/Sandor5055-68589a?style=for-the-badge&logo=discord&logoColor=white)
 
