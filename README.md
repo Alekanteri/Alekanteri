@@ -1,72 +1,21 @@
-![Header](./static/github-header-image.png)
+# 💫 About Me:
+Beginning front-end web-developer. 🌐<br>I am currently working on JavaScript/TypeScript. 🛠️<br>Currently learning Rust and Golang languages. 👀<br>I improve my skills by studying DevOps methodology and BackEnd 📈
 
-<div style="width: 100vw; height: 5rem;"></div>
 
-My name is Alex Avetisov, I am a beginner Web Developer. I started learning programming in 2021 and have been trying to learn more and more new things ever since.
+## 🌐 Socials:
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@sandorbasc) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Omodeuris) 
 
-<div style="width: 100vw; height: 3rem;"></div>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Alekanteri&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Alekanteri&theme=nord&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alekanteri&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h1 style="text-align: center;">🔧 Technologies & Tools</h1>
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-<h2>Used OS:</h2>
+---
+[![](https://visitcount.itsvg.in/api?id=Alekanteri&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![](https://img.shields.io/badge/MacOS-68589a?style=for-the-badge&logo=Apple&logoColor=white)
-![](https://img.shields.io/badge/Windows-68589a?style=for-the-badge&logo=Windows&logoColor=white)
-![](https://img.shields.io/badge/Linux-68589a?style=for-the-badge&logo=Linux&logoColor=white)
-
-<h2>Code Editors:</h2>
-
-![](https://img.shields.io/badge/VS_Code-68589a?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![](https://img.shields.io/badge/Vim-68589a?style=for-the-badge&logo=Vim&logoColor=white)
-
-<h2>Tools:</h2>
-
-![](https://img.shields.io/badge/git-68589a?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/bash-68589a?style=for-the-badge&logo=GNU-Bash&logoColor=white)
-
-<h2>Programming Languages:</h2>
-
-![](https://img.shields.io/badge/javascript-68589a?style=for-the-badge&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/react-68589a?style=for-the-badge&logo=react&logoColor=white)
-![](https://img.shields.io/badge/webpack-68589a?style=for-the-badge&logo=webpack&logoColor=white)
-![](https://img.shields.io/badge/scss-68589a?style=for-the-badge&logo=sass&logoColor=white)
-![](https://img.shields.io/badge/typescript-68589a?style=for-the-badge&logo=typescript&logoColor=white)
-
-<p>Currently Learning:</p>
-
-![](https://img.shields.io/badge/rust-68589a?style=for-the-badge&logo=rust&logoColor=white)
-![](https://img.shields.io/badge/node_js-68589a?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/flutter-68589a?style=for-the-badge&logo=flutter&logoColor=white)
-
-<div style="width: 100vw; height: 3rem;"></div>
-
-<h1 style="text-align: center;">📊 Github Stats</h1>
-
-<span>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alekanteri&hide=html,css&theme=material-palenight&langs_count=3" />
-</span>
-<span>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alekanteri&theme=material-palenight" />
-</span>
-
-<div style="width: 100vw; height: 3rem;"></div>
-
-<h1 style="text-align: center;">Links</h1>
-
-Telegram: <a href="https://t.me/Fxurhexd">
-
-![](https://img.shields.io/badge/@Fxurhexd-68589a?style=for-the-badge&logo=telegram&logoColor=white)
-
-</a>
-
-Discord: <a href="https://discord.com/users/Sandor#5055">
-
-![](https://img.shields.io/badge/Sandor5055-68589a?style=for-the-badge&logo=discord&logoColor=white)
-
-</a>
-
-Gmail: <a href="mailto:sandor.basc@gmail.com">
-
-![](https://img.shields.io/badge/sandor.basc@gmail.com-68589a?style=for-the-badge&logo=gmail&logoColor=white)
-
-</a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
